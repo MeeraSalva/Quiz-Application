@@ -1,0 +1,27 @@
+Which is used to find and fix bugs in the Java programs.?::JVM::JDB::JDK::JRE::JDB
+What is the return type of the hashCode() method in the Object class?::int::object::long::void::int
+Number of primitive data types in java are?::6::7::8::9::8
+What is the size of float and double in java?::32 and 64::32 and 32::64 and 64::64 and 32::32 and 64
+Automatic type conversion is possible in which of the possible cases?::Byte to int::Int to long::Long to int::Short to int::Int to long
+Which of the following is a marker interface?::Runnable interface::Remote interface::Readable interface::Result interface::Remote interface
+Which keyword is used for accessing the features of a package?::import::package::extends::export::import
+In java, jar stands for?::Java Archive Runner::Java Archive::Java Application Resource::Java Application Runner::Java Archive
+Which of the following is a mutable class in java?::java.lang.StringBuilder::java.lang.Short::java.lang.Byte::java.lang.String::java.lang.StringBuilder
+Which of the following option leads to the portability and security of Java?::Bytecode is executed by JVM::The applet makes the Java code secure and portable::Use of exception handling::Dynamic binding between objects::Bytecode is executed by JVM
+Who invented Java Programming?:: Guido van Rossum::James Gosling::Dennis Ritchie::Bjarne Stroustrup::James Gosling
+Which statement is true about Java?::Java is a sequence-dependent programming language:: Java is a code dependent programming language:: Java is a platform-dependent programming language::Java is a platform-independent programming language::Java is a platform-independent programming
+Which component is used to compile, debug and execute the java programs?::JRE::JIT::JDK::JVM::JDK
+Which one of the following is not a Java feature?::Object-oriented::Use of pointers:: Portable::Dynamic and Extensible::Use of pointers
+Which of these cannot be used for a variable name in Java?::identifier & keyword::identifier:: keyword:: none of the mentioned::keyword
+What is the extension of java code files?::.js::.txt::.class::.java::java
+Which environment variable is used to set the java path?:: MAVEN_Path::JavaPATH::JAVA::JAVA_HOME::JAVA_HOME
+Which of the following is not an OOPS concept in Java?::Polymorphism::inheritance:: Compilation::Encapsulation::Compilation
+What is not the use of “this” keyword in Java?::Referring to the instance variable when a local variable has the same name:: Passing itself to the method of the same class::Passing itself to another method:: Calling another constructor in constructor chaining::Referring to the instance variable when a local variable has the same name
+Which exception is thrown when java is out of memory?::MemoryError::OutOfMemoryError::MemoryOutOfBoundsException::MemoryFullException::OutOfMemory
+Which of these are selection statements in Java?::break::continue::for()::if()::if()
+Which of the following is a superclass of every class in Java?::ArrayList::Abstract class::Object class::String::Objeat class
+Which of the below is not a Java Profiler?:: JProfiler::Eclipse Profiler::JVM::JConsole::Eclipse Profiler
+Which of these keywords must be used to handle the exception thrown by try block in some rational manner?::try::finally::throw::catch::catch
+Which of these keywords is used to manually throw an exception?:: try::finally::throw::catch::throw
+Which of these keywords is not a part of exception handling?:: try::finally::thrown::catch::try
+Which of these keywords must be used to monitor for exceptions?::try::finally::throw::catch::try
